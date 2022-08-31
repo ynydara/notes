@@ -53,7 +53,24 @@ public class notes1 {
 
     //}
 //}
+//---------------------------------------------------------------------------------------------
+    // "this"
+    //      -used inside of classes
+    //it is a reference to the object being created.
+    //instead of <line 40>
+    // Bottle(){
+    // this(500, "plastic");
 
+    //}end bottle
+    //Bottle(int vol, string mat){
+        //make sure there cant have a negative volume.
+        //if(vol>0){
+    //      volume = vol;
+    //} end if
 
+    //}end Bottle
 
+// -"this" is used to access resources inside the class itself.
+    //can reference attributes.
+    //------------------------------------------------------------------------------------------
 }
